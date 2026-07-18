@@ -1,0 +1,37 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Modelos o archivos generados
+*.pkl
+*.joblib
+
+# Credenciales y variables de entorno
+.env
+*.key
+*.pem
+
+# Cachés
+.cache/
